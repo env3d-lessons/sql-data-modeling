@@ -1,6 +1,7 @@
 ### Data Modeling Exercises
 
 **Objective:**
+
 In this assignment, you will modify the data model to conform to the following requirements:
 
   1. Users can have only 1 email, and it is required (not NULLable)
@@ -8,6 +9,7 @@ In this assignment, you will modify the data model to conform to the following r
   1. Update related tables and queries to accommodate this change.
 
 Save the modified schema into a file called `answer.sql`
+
 ---
 
 ### **Current Data Model and Sample Data**
