@@ -85,3 +85,18 @@ INSERT INTO Likes (user_id, post_id) VALUES
 (3, 2), -- Charlie likes Bob's post
 (4, 3); -- Dave likes Charlie's post
 ```
+### Submit Assignment
+
+Test your solution by executing the following command on the bash terminal:
+
+```shell
+$ pytest
+```
+
+When you are satisified, execute the following commands to submit:
+
+```shell
+$ git add -A
+$ git commit -m 'submit'
+$ git push
+```
