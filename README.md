@@ -1,4 +1,4 @@
-**Assignment: Transforming the Posts Table into a Weak Entity**
+### Data Modeling Exercises
 
 **Objective:**
 In this assignment, you will modify the data model to conform to the following requirements:
